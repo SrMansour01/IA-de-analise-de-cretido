@@ -79,9 +79,8 @@ Você pode instalar as dependências com:
 ```bash
 pip install numpy pandas matplotlib scikit-learn
 ```
-
+### Estrutura do Projeto
 ```bash
-Estrutura do Projeto
 bash
 Copiar
 Editar
