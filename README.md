@@ -61,6 +61,22 @@ Matriz de confusão do último fold para MLP.
 
 Resumo das configurações e resultados no console.
 
+<p float="left">
+  <img src="caminho/para/imagem1.png" width="45%" />
+  <img src="caminho/para/imagem2.png" width="45%" />
+</p>
+
+```bash
+Relatório Resumido:
+- Dataset: make_moons (1000 amostras, ruído=0.2)
+- Arquitetura MLP: 10 camadas ocultas de 12 neurônios cada
+- Função de ativação: sigmoid
+- Otimização: backpropagation manual, LR=0.1, epochs=500
+- Avaliação: 10-fold cross-validation
+- Métricas: Acurácia e Erro Quadrático Médio (MSE)
+- Resultados: MLP supera Perceptron simples em acurácia média (~49.20% vs 78.60%)
+```
+
 Requisitos
 Python 3.7+
 
