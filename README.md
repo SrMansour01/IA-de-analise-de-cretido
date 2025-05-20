@@ -62,6 +62,7 @@ Matriz de confusão do último fold para MLP.
 Resumo das configurações e resultados no console.
 
 <img src="./assets/img1.png" alt="Descrição da imagem 1" width="700" />
+<img src="./assets/img2.png" alt="Descrição da imagem 1" width="700" />
 
 
 ```bash
