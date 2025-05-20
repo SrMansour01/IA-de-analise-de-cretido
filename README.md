@@ -61,8 +61,8 @@ Matriz de confusão do último fold para MLP.
 
 Resumo das configurações e resultados no console.
 
-<img src="./assets/img2.png" width="45%" />
-<img src="./assets/img1.png" width="45%" />
+![Descrição da imagem 1](./assets/img1.png)
+![Descrição da imagem 2](./assets/img2.png)
 
 ```bash
 Relatório Resumido:
